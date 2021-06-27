@@ -1,0 +1,117 @@
+.cent {
+    display: block;
+    margin-top: 180px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.searchbox:hover{
+  box-shadow: 0 0 5px #f1f1f1;
+}
+
+.two
+{
+  text-align: center;
+  margin-top: 30px;  
+}
+
+.lucky
+{
+  height: 40px;
+  width: 140px;
+  background-color: #F2F2F2;
+  border: 1px solid white;
+  border-radius: 5px;
+  font-family: arial,sans-serif;
+  cursor: pointer;
+  
+ }
+.lucky:hover
+{
+  border: 1px solid #D8D8D8;
+  font-weight: bold;
+}
+
+.top .material-icons{
+  float: right;
+  font-size: 30px;
+}
+.imgs{
+  float: right;
+  background-color: white;
+  margin-top: 10px;
+  font-family: arial,sans-serif;
+}
+.gm{
+  float: right;
+  background-color: white;
+  margin-top: 10px;
+  font-family: arial,sans-serif;
+}
+
+footer div{
+  background-color: #f1f1f1;
+  font-family: arial,sans-serif;;
+}
+div.fix2{
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  padding: 10px 0px 10px 10px;
+  border-top: 1px solid lightgray;
+  font-family: arial,sans-serif;
+}
+div.fix1{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width:100%;
+  padding: 10px 0px 10px 10px;
+  border-top: 1px solid lightgray;
+  font-family: arial,sans-serif;
+}
+
+div.fix3{
+  position: fixed;
+  bottom: 39px;
+  left: 0;
+  width: 100%;
+  border-top:1px solid lightgray;
+  padding: 10px 0 10px 10px;
+  font-size: 15px;
+  color: rgba(0,0,0,.54);
+  font-family: arial,sans-serif;
+}
+
+div.lang{
+  font-size: 92%;
+  margin: 25px 300px 0px 480px;
+  font-family: arial,sans-serif;
+}
+div.lang:hover{ 
+  cursor: pointer;
+}
+.searchbox{
+  text-indent:50px;
+}
+
+.box{
+  position: relative;
+  color: #aaa;
+  font-size: 16px;
+}
+.box .material-icons{
+  position: relative;
+  top: 8px;
+  left: 70px;
+}
+#mic{
+  position: relative;
+  left: 564px;
+}
+
+.material-icons {
+  color: #000;
+    cursor: pointer;
+    text-decoration: none;
+}
